@@ -1,0 +1,16 @@
+#about {
+  background-color: pink;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+  margin-bottom: 4rem;
+}
+
+#about h2 {
+  color: rgb(48, 47, 47);
+  text-align: center;
+}
+
+#about p {
+  text-align: justify;
+}
